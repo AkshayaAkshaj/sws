@@ -1,0 +1,42 @@
+img{
+    height:500px;
+    width:1000px;
+        
+}
+#school{
+height: 500;
+    width: 1000
+}
+body{
+    align-content: center;
+    text-align: center;
+}
+.links {
+    float: left;
+    color: crimson;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: "Cinzel Decorative", cursive;
+    font-size: 20px;
+    text-decoration: none;
+}
+.links:hover {
+    background-color:black;
+    color: white;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
